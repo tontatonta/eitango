@@ -2,8 +2,10 @@ import React from 'react';
 
 const Home = () => {
     return (
-        <header class="flex flex-wrap sm:justify-start sm:flex-nowrap w-full bg-white text-sm py-4 dark:bg-neutral-800">
-        </header>
+        <div>
+            <h1>Home Page</h1>
+            <p>This is the Home page content.</p>
+        </div>
     );
 };
 
